@@ -1,1 +1,1 @@
-msg hacked
+echo hacked
